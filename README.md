@@ -116,10 +116,10 @@ Data yang telah disiapkan kemudian dilakukan visualisasi menggunakan tableau den
 
 ## Pembuatan Dashboard
  Semua visualisasi tadi disatukan dalam bentuk dashboard sebagai berikut
- 
+
 ![Screen Shot 2022-06-19 at 23 43 30](https://user-images.githubusercontent.com/75478472/174491514-40c96043-d2cd-4c91-a7a4-03c23cf67c80.png)
 
-
+Dashboard dapat diakses pada [link](https://public.tableau.com/app/profile/shally.nabila/viz/ProjectVISDATUAS/Dashboard1?publish=yes)  
 <!-- CONTACT -->
 ## Contact
 
